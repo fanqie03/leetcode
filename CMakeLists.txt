@@ -1,0 +1,1 @@
+add_executable(demo demo.cpp) # 生成可执行文件
